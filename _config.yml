@@ -1,0 +1,7 @@
+title: 'HelloDev Online Meetup: 💎 Ruby for Beginner'
+
+defaults:
+  - scope:
+      path: 'README.md'
+    values:
+      permalink: 'index.html'
